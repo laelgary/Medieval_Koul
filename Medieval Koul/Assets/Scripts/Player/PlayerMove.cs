@@ -4,6 +4,11 @@ using UnityEngine;
 
 public class PlayerMove : MonoBehaviour
 {
+
+    //lololololololol
+
+
+
     //declarer les variables
 
     //velocité deplacement par defaut
